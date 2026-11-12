@@ -39,6 +39,11 @@ AI 项目会额外标记为 **AI 项目**，但不因此获得自动收录资格
 - `standards/`：收录、研究和文档规范
 - `plugin-development/`：值得进一步封装或集成的候选项目及方案
 
+## 当前项目分类
+
+- [浏览器自动化](projects/browser-automation/README.md)（含 agent-browser）
+- [Agent Skills 与 AI 工作流](projects/agent-skills/README.md)（含 mattpocock/skills）
+
 ## 评估状态
 
 - `recommended`：推荐收录
